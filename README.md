@@ -1,0 +1,1 @@
+The program asks for the first three digits of a bank account, loads the text file from https://ewib.nbp.pl/plewibnra?dokNazwa=plewibnra.txt, finds the abbreviated bank number and the bank name, and prints the name of the bank to the user. I also attached BankLookup.java.
